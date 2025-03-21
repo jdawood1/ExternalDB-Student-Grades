@@ -17,7 +17,7 @@ This repository contains the solution for **HW3 - Decision Making with External 
 ## Setup & Run
 1. Clone the repo:
    ```bash
-   git clone <your-github-repo-url>
+   git clone https://github.com/jdawood1/ExternalDB-Student-Grades
    cd HW3_ExternalData_StudentGrades
    ```
 
